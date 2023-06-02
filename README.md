@@ -8,6 +8,6 @@ It's Edu, a Digital Economist turned into Data Scientist working on Machine Lear
 - I ride 🚲 and 🏃 as much as I can
 
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=edugonzaloalmorox&theme=default)](https://git.io/streak-stats)
+
 
 
